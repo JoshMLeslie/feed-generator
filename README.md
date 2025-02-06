@@ -2,6 +2,9 @@
 
 This is a starter kit for creating ATProto Feed Generators. It's not feature complete, but should give you a good starting ground off of which to build and deploy a feed.
 
+## Deployment Example
+See [this example](https://luten.dev/bluesky-ttrpg-feed/) by Eddy Luten
+
 ## Overview
 
 Feed Generators are services that provide custom algorithms to users through the AT Protocol.
